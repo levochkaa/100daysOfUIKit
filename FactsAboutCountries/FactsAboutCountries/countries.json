@@ -1,0 +1,14 @@
+[
+  {
+    "name": "USA",
+    "shortDescription": "The United States of America is the world's third largest country in size and nearly the third largest in terms of population. Located in North America, the country is bordered on the west by the Pacific Ocean and to the east by the Atlantic Ocean. Along the northern border is Canada and the southern border is Mexico."
+  },
+  {
+    "name": "China",
+    "shortDescription": "China is situated in eastern Asia , bounded by the Pacific in the east. With a landmass of 9,600,000 sq km or one-fifteenth of the world's land mass, China is the third largest country in the world, next to Canada and Russia."
+  },
+  {
+    "name": "France",
+    "shortDescription": "France is one of the oldest nations on Earth and the most ethnically diverse country in Europe. These deep and broad influences have made France a world leader throughout history in nearly all aspects of culture, including cuisine, wine-making, politics, philosophy, music, art, film, fashion, literature, and sports."
+  }
+]
